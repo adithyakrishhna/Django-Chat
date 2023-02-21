@@ -32,8 +32,3 @@ A room chatting web application
 
 🚀 https://adithyakrishna.pythonanywhere.com/
 
-## Author
-
-- [@AdithyaKrishna169](https://github.com/AdithyaKrishna169)
-
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyakrishnaeemani/)
